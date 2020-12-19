@@ -4,7 +4,7 @@
 Hi, I'm LeChatErrant !
 
 - 🔭 I’m currently working on Back-end architecture, Typescript, Kubernetes and Cloud-computing design pattern
-- 🌱 I’m currently learning Flutter and Front-end (React & NextJS)
+- 🌱 I’m currently learning Front-end, with React and NextJS
 - ⚡ Fun fact: 
 ```javascript
 parseInt(0.0000003) // 3
