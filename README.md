@@ -7,6 +7,9 @@ Hi, I'm LeChatErrant !
 - 🌱 I’m currently learning Front-end, with React and NextJS
 - ⚡ Fun fact: 
 ```javascript
+parseInt(3) // 3
+parseInt(0.3) // 0
+parseInt(0.003) // 0
 parseInt(0.0000003) // 3
 // And that's why we LOVE Javascript
 ```
