@@ -5,6 +5,9 @@ Hi, I'm LeChatErrant !
 
 - 🔭 I’m currently working on Back-end architecture, Typescript, Kubernetes and Cloud-computing design pattern
 - 🌱 I’m currently learning Front-end, with React and NextJS
+- 📫 You can reach me on :
+   - Discord : LeChatErrant#6074
+   - Email : guillaume.hector@epitech.eu
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeChatErrant&theme=dracula&count_private=true)
